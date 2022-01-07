@@ -1,1 +1,5 @@
-# Desafio de projeto sobre Git/Github oferecido pela Digital Innovation One
+# Desafio de Projeto sobre Git/GitHub da DIO
+Repositório criado para o Desafio de Projeto.
+
+# Links Úteis
+Sintaxe Basica Markdown
